@@ -1,5 +1,6 @@
 # student-record-management
 A simple Java command-line application to manage student records using ArrayList.
+
 #features
  Add Student
  View Students
